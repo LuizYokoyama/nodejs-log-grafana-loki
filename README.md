@@ -10,7 +10,7 @@ Execute o seguinte comando em um terminal Linux, para iniciar o Grafana e o Loki
 
 * **_docker compose up_**
 
-Em outro terminal Linux, entre no diretório ***node-app*** e execute os seguintes comandos::
+Em outro terminal Linux, entre no diretório ***node-app*** e execute os seguintes comandos:
 
 * **_npm install express_**
 
