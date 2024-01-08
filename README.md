@@ -6,7 +6,7 @@ Este payground usa o Grafana e o Loki para vilusalização de logs do Nodejs.
 
 Neste diretório nodejs-log-grafana-loki:
 
-Execute o seguinte comando em um terminal Linux, para iniciar o Grafana e o Lok:
+Execute o seguinte comando em um terminal Linux, para iniciar o Grafana e o Loki:
 
 * **_docker compose up_**
 
