@@ -63,3 +63,9 @@ Também é possível gerar mais logs através dos links:
 
   https://grafana.com/docs/loki/latest/get-started/?pg=oss-loki&plcmt=resources#get-started
 
+
+* Logger in Node Js Express Application
+
+  https://www.youtube.com/watch?v=cWi7TAyVoZo
+
+  https://github.com/basarbk/express-sequelize/tree/logging-final
