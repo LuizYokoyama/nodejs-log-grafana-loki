@@ -48,7 +48,15 @@ Também é possível gerar mais logs através dos links:
 *  http://localhost:5556/404
 *  http://localhost:5556/health
 
+### Dashboards:
 
+Acesse dashboards em:
+
+http://localhost:3000/dashboards
+
+Depois click em test1 dashboard pra acessar essa dashboard:
+
+![img.png](readme-images/img4.png)
 
 ### Referências
 
