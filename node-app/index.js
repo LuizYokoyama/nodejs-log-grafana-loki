@@ -22,6 +22,17 @@ app.get('/health', (req, res) => {
     res.sendStatus(200);
 })
 
+//registra log a cada intervalo em ms
+setInterval(function () {
+    logger.error("error 500");
+}, 100)
+
+//registra log a cada intervalo em ms
+setInterval(function () {
+    logger.info("ok");
+}, 300)
+
+
 logger.error("error");
 logger.warn("warn");
 logger.info("info");
