@@ -46,6 +46,7 @@ Também é possível gerar mais logs através dos links:
 
 *  http://localhost:5556/200
 *  http://localhost:5556/404
+*  http://localhost:5556/error
 *  http://localhost:5556/health
 
 ### Dashboards:
